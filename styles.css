@@ -47,7 +47,7 @@ body {
   }
   
   .bold {
-    font-weight: 700;
+    font-weight: bold;
   }
   
   .italic {
@@ -93,7 +93,7 @@ body {
   .footer {
     margin: 0 auto;
     text-align: center;
-    font-weight: 700;
+    font-weight: bold;
     font-size: 18px;
     padding-bottom: 30px;
   }
